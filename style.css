@@ -1,0 +1,12 @@
+.one {
+    text-align: center;
+    font-size: 3rem;
+}
+div {
+    width: 100%;
+    background-color: red;
+    height: 300px;
+}
+.two {
+    font-size: 3rem;
+}
